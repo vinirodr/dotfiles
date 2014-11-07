@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/vinicius/projects/curriculum_selection/spec/requests'
+let g:netrw_dirhist_2='/home/vinicius/projects/curriculum_selection/spec/requests/candidates'
+let g:netrw_dirhist_3='/home/vinicius/dotfiles'
